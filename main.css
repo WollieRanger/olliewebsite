@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Sintony&display=swap');
+*{
+    font-family: 'Sintony', sans-serif;
+}
+
+/* Font css */
+
+
+
+/* Frame css */
+
+body {
+    margin:0;
+    padding:0;
+    font-family: Sans-Serif;
+    line-height: 1.5em;
+    text-align: center;
+}
+
+#header {
+    background: #ccc;
+    height: 100px;
+    text-align: right;
+}
+
+#header h1 {
+    margin: 0;
+    padding-top: 15px;
+    text-align: right;
+}
+
+main {
+    padding-bottom: 10010px;
+    margin-bottom: -10000px;
+    float: left;
+    width: 100%;
+    text-align: center;
+}
+
+#nav {
+    padding-bottom: 10010px;
+    margin-bottom: -10000px;
+    float: left;
+    width: 230px;
+    margin-left: -100%;
+    background: #eee;
+    text-align: center;
+}
+
+
+
+
+
+#wrapper {
+    overflow: hidden;
+}
+            
+#content {
+    margin-left: 230px; /* Same as 'nav' width */
+}
+
+.innertube {
+    margin: 15px; /* Padding for content */
+    margin-top: 0;
+}
+
+p {
+    color: #555;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul a {
+    color: darkgreen;
+    text-decoration: none;
+}
+
+
+
+
